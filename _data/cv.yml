@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Honours Bachelor of Computer Science
+    - title: Bachelor of Computer Science
       institution: Carleton University, Ottawa, Canada
       year: 2023
       # description:
@@ -42,9 +42,8 @@
       year: Jun 2022 - Aug 2022
       description:
         - Gathered requirements, created user stories, and developed a Shopify website for a non-profit organization.
-        - Integrated custom functionalitysuch as a payment gateway, user login/authentication, and event managment systems for both the end user and admingresulting in more than 300 sign-up
-        - 
-        - Description 2.
+        - Integrated custom functionality such as a payment gateway, user login/authentication, and event managment systems for both the end user and admingresulting in more than 300 sign-up
+        
 
     - title: Marketing Intern
       institution: Canadian Nurses Association 
@@ -78,30 +77,30 @@
       - Worked closely with the Founder and Product Manager to gather requirements and create the wire-frames, and user interfaces, and built a logical and user-friendly flow.
 
 
-- title: 
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+# # - title: 
+# #   type: time_table
+# #   contents:
+# #     - year: 1921
+# #       items: 
+# #         - Nobel Prize in Physics 
+# #         - Matteucci Medal
+# #     - year: 2029
+# #       items: 
+# #         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# # - title: Academic Interests
+# #   type: nested_list
+# #   contents:
+# #     - title: Topic 1.
+# #       items: 
+# #         - Description 1.
+# #         - Description 2.
+# #     - title: Topic 2.
+# #       items:
+# #         - Description 1.
+# #         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
