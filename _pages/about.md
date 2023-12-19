@@ -29,6 +29,7 @@ When I'm not immersed in my professional and academic pursuits, you can find me 
 
 In no particular order, here are some of my achievements/projects that I have worked on:
 
+- Built a semantic search algorithm using OpenAI text-embedding-ada-002 API utlizing NLP techniques such as tokenization, n-gram search, and semantic analysis using text embeddings. [[+]](https://github.com/gksaurabh/semantic-search/blob/main/Final_Report.pdf)
 - Built a fullstack web-app to help users study for the GRE exam [[+]](https://github.com/gksaurabh/GRE-Wordlist-webapp)
 - Built a static weather app using ReactJS weather making calls to an API [[+]](https://github.com/gksaurabh/Weather_App)
 - Wrote a script to automate booking a time slot for gyms across the city of Ottawa [[+]](https://github.com/gksaurabh/OttawaGym-BookingAutomation)
